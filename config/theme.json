@@ -1,0 +1,12 @@
+{
+  "colorScheme": "dark",
+  "primaryColor": "#1e40af",
+  "font": "Inter, sans-serif",
+  "layout": "default",
+  "sections": {
+    "about": true,
+    "projects": true,
+    "skills": true,
+    "contact": true
+  }
+}
